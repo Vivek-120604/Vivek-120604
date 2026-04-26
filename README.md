@@ -8,7 +8,7 @@
 - **MLOps pipelines** — DVC • MLflow • FastAPI • Docker • GitHub Actions
 
 ## Currently
-- 🏢 Data Scientist/ Machine learning Exppert @ **Afterquery Experts (YC 2025)**
+- 🏢 Data Scientist/ Machine learning Expert @ **Afterquery Experts (YC 2025)**
 - 🎓 B.Tech Biotechnology — **NIT Jalandhar '27**
 - 🏆 **GATE BT 2026 AIR 643**
 - 📅 Open to paid AI/ML internship from **May 2026**
