@@ -23,8 +23,8 @@
 ## Featured Projects
 | Project | What it does | Live |
 |---|---|---|
-| **DocMind** | RAG agent exposed as MCP server — any AI agent can call it as a tool | [Demo](https://huggingface.co/spaces/yourspace/DocMind) |
-| **AgentFlow** | Research + Writer agents communicating via A2A protocol | Coming soon |
-| **RAGForge** | Production RAG chatbot with full MLOps pipeline | Coming soon |
+| **DocMind** | RAG agent exposed as MCP server — any AI agent can call it as a tool | 
+| **AgentFlow** | Research + Writer agents communicating via A2A protocol |
+| **RAGForge** | Production RAG chatbot with full MLOps pipeline | 
 
 📬 **Reach me:** [LinkedIn](https://linkedin.com/in/vivek-singh-b6889228a) • [X](https://x.com/imvsk_12)
