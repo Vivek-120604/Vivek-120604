@@ -27,28 +27,28 @@
 
 ## Projects
 
-### DocMind — Production RAG + MCP Server &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/docmind) · [GitHub ↗](YOUR_GITHUB_LINK)
+### DocMind — Production RAG + MCP Server &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/docmind) · [GitHub ↗](https://github.com/Vivek-120604/docmind)
 RAG system over 100+ page documents exposed as an MCP server — any AI agent (Claude Desktop, LangGraph) can call it as a native tool. Sub-2s response, citation-backed answers, dual FastAPI + Gradio server in a single Docker container.
 
 `Python` `FastAPI` `LangChain` `ChromaDB` `Groq Llama-3.1-8b` `MCP SDK` `Docker` `uv`
 
 ---
 
-### BioMesh — Multi-Agent Biotech Research Platform &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BioMesh?logs=container) · [GitHub ↗](YOUR_GITHUB_LINK)
+### BioMesh — Multi-Agent Biotech Research Platform &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BioMesh?logs=container) · [GitHub ↗](https://github.com/Vivek-120604/BioMesh)
 4 specialised agents (Research, FDA, Analysis, Report) orchestrated via Google A2A Protocol. Compresses 7 hours of manual biotech research into under 2 minutes. Parallel ArXiv + OpenFDA retrieval with typed artifact handoffs and agent lifecycle management.
 
 `Python` `Google A2A Protocol` `ArXiv API` `OpenFDA API` `FastAPI` `Gradio` `Docker`
 
 ---
 
-### BioMind — Vectorless Biomedical RAG &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BIOMIND) · [GitHub ↗](YOUR_GITHUB_LINK)
+### BioMind — Vectorless Biomedical RAG &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BIOMIND) · [GitHub ↗](https://github.com/Vivek-120604/BIOMIND)
 BM25 retrieval over live ArXiv papers — exact lexical match for gene IDs (BRCA1), drug names, and disease codes where semantic search over-generalises. MCP server exposes `search_papers` and `ask_biomind` as native Claude Desktop tools.
 
 `Python` `BM25 (rank-bm25)` `LangChain` `Groq` `MCP SDK` `FastAPI` `Gradio` `Docker`
 
 ---
 
-### Biological RL Environment — Meta OpenEnv &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/my_env) · [GitHub ↗](YOUR_GITHUB_LINK)
+### Biological RL Environment — Meta OpenEnv &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/my_env) · [GitHub ↗](https://github.com/Vivek-120604/my_env)
 LLM agent (Qwen2.5-72B) optimising temperature (37°C), pH (7.4), and mutation level for biological processes. Achieves score ≥ 0.85 on Hard tier (50-step horizon). Built on Meta's open-source OpenEnv framework with REST endpoints for reset, step, and grade.
 
 `Python` `Meta OpenEnv` `Qwen2.5-72B` `FastAPI` `Docker` `HF Inference API`
