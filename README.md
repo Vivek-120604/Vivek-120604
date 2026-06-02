@@ -92,4 +92,4 @@ LLM agent (Qwen2.5-72B) optimising temperature (37°C), pH (7.4), and mutation l
 
 ## Connect
 
-📬 [LinkedIn](https://linkedin.com/in/vivek-singh-b6889228a) &nbsp;·&nbsp; [X / Twitter](https://x.com/imvsk_12) &nbsp;·&nbsp; Open to paid AI/ML internship from May 2026
+📬 [LinkedIn](https://linkedin.com/in/vivek-singh-b6889228a) &nbsp;·&nbsp; [X / Twitter](https://x.com/imvsk_12) &nbsp;·&nbsp; Open to  AI/ML internship from May 2026
