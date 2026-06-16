@@ -1,6 +1,6 @@
 # Vivek Kumar Singh
 
-> Building production-grade agentic AI systems. NIT Jalandhar Biotech '27 · GATE 2026 AIR 643 · Machine learning engineer @ AfterQuery (YC 2025)
+> Building production-grade agentic AI systems. NIT Jalandhar Biotech '27 · GATE 2026 AIR 643 · Machine learning engineer @ AfterQuery Experts(YC 2025)
 
 ![Open to internships](https://img.shields.io/badge/Open%20to%20internships-May%202026-1D9E75?style=flat-square)
 ![Stack](https://img.shields.io/badge/LangGraph%20·%20MCP%20·%20A2A%20Protocol-5A2D82?style=flat-square)
