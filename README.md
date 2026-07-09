@@ -27,17 +27,18 @@
 
 ## Projects
 
-### DocMind — Production RAG + MCP Server &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/docmind) · [GitHub ↗](https://github.com/Vivek-120604/docmind)
-RAG system over 100+ page documents exposed as an MCP server — any AI agent (Claude Desktop, LangGraph) can call it as a native tool. Sub-2s response, citation-backed answers, dual FastAPI + Gradio server in a single Docker container.
-
-`Python` `FastAPI` `LangChain` `ChromaDB` `Groq Llama-3.1-8b` `MCP SDK` `Docker` `uv`
-
----
 
 ### BioMesh — Multi-Agent Biotech Research Platform &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BioMesh?logs=container) · [GitHub ↗](https://github.com/Vivek-120604/BioMesh)
 4 specialised agents (Research, FDA, Analysis, Report) orchestrated via Google A2A Protocol. Compresses 7 hours of manual biotech research into under 2 minutes. Parallel ArXiv + OpenFDA retrieval with typed artifact handoffs and agent lifecycle management.
 
 `Python` `Google A2A Protocol` `ArXiv API` `OpenFDA API` `FastAPI` `Gradio` `Docker`
+
+
+
+### DocMind — Production RAG + MCP Server &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/docmind) · [GitHub ↗](https://github.com/Vivek-120604/docmind)
+RAG system over 100+ page documents exposed as an MCP server — any AI agent (Claude Desktop, LangGraph) can call it as a native tool. Sub-2s response, citation-backed answers, dual FastAPI + Gradio server in a single Docker container.
+
+`Python` `FastAPI` `LangChain` `ChromaDB` `Groq Llama-3.1-8b` `MCP SDK` `Docker` `uv`
 
 ---
 
