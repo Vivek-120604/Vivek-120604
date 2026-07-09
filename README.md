@@ -10,9 +10,9 @@
 
 ## Currently
 
-- 🟢 Data Scientist @ **AfterQuery Experts (YC 2025)** — designing Kaggle-style ML benchmarks with custom metrics and adversarial test splits
-- 🔵 B.Tech Biotechnology · NIT Jalandhar · **GATE 2026 AIR 643**
-- 🧬 Biotech × AI — building where biology meets production agentic systems
+-  Data Scientist @ **AfterQuery Experts (YC 2025)** — designing Kaggle-style ML benchmarks with custom metrics and adversarial test splits
+-  B.Tech Biotechnology · NIT Jalandhar · **GATE 2026 AIR 643**
+-  Biotech × AI — building where biology meets production agentic systems
 
 ---
 
