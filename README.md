@@ -43,7 +43,7 @@ RAG system over 100+ page documents exposed as an MCP server — any AI agent (C
 ---
 
 ### BioMind — Vectorless Biomedical RAG &nbsp; [Live ↗](https://huggingface.co/spaces/whyvek/BIOMIND) · [GitHub ↗](https://github.com/Vivek-120604/BIOMIND)
-BM25 retrieval over live ArXiv papers — exact lexical match for gene IDs (BRCA1), drug names, and disease codes where semantic search over-generalises. MCP server exposes `search_papers` and `ask_biomind` as native Claude Desktop tools.
+BM25 retrieval over live ArXiv papers — exact lexical match for gene IDs (BRCA1), drug names, and disease codes where semantic search over-generalises. MCP server exposes `search_papers` and `ask_biomind` as native Claude Desktop tools
 
 `Python` `BM25 (rank-bm25)` `LangChain` `Groq` `MCP SDK` `FastAPI` `Gradio` `Docker`
 
