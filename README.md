@@ -16,12 +16,6 @@
 
 ---
 
-## What I Ship
-
-| | | |
-|---|---|---|
-| **4** live deployed systems | **MCP** servers in production | **A2A** multi-agent orchestration |
-| **Biotech × AI** domain angle | **YC-network** exposure | **Sub-2s** RAG response times |
 
 ---
 
