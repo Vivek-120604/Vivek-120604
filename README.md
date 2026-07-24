@@ -4,7 +4,6 @@
 
 ![Open to internships](https://img.shields.io/badge/Open%20to%20internships-May%202026-1D9E75?style=flat-square)
 ![Stack](https://img.shields.io/badge/LangGraph%20·%20MCP%20·%20A2A%20Protocol-5A2D82?style=flat-square)
-![Projects](https://img.shields.io/badge/4%20live%20deployed%20systems-185FA5?style=flat-square)
 
 ---
 
